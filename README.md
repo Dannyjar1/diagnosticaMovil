@@ -1,5 +1,10 @@
 # diagnostico
 
+https://github.com/Dannyjar1/diagnosticaMovil.git
+
+https://github.com/Dannyjar1/diagnosticaMovil.git
+
+
 A new Flutter project.
 
 ## Getting Started
