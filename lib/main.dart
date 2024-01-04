@@ -1,3 +1,5 @@
+///////////////////////////
+
 import 'package:diagnostico/clases/Persona.dart';
 import 'package:flutter/material.dart';
 
