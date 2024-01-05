@@ -29,7 +29,7 @@ class MyApp extends StatelessWidget {
             child: Text(
               estudiante.toString(),
               style: const TextStyle(
-                color: Colors.lightBlueAccent,  //Color azul del requerimiento 
+                color: Colors.amber,  //Color azul del requerimiento 
                 fontSize: 23,                      //tamaño de letra 
               ),
               textAlign: TextAlign.center,         //alineado al centro
